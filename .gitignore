@@ -1,0 +1,10 @@
+.idea/
+out/
+*.iml
+*.class
+lib/
+Java/.idea/
+Java/out/
+Java/*.iml
+Java/*.class
+Java/lib/
