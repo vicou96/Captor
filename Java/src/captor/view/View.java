@@ -5,15 +5,9 @@ import captor.model.Model;
 import javax.swing.*;
 import java.awt.event.ActionListener;
 
-/**
- * MVC maze.view.View
- * @author Aredhele, Xarkes, Coqui, Lyter, Chlorodatafile
- * @version 1.0
- */
 public class View extends JFrame {
 
-    public View(Model model)
-    {
+    public View(Model model) {
         setSize(500, 500);
         setTitle("Captor");
         setLocationRelativeTo(null);
@@ -22,9 +16,6 @@ public class View extends JFrame {
         display();
     }
 
-    /**
-     * Display the UI
-     */
     public void display() {
         setVisible(true);
     }

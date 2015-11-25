@@ -1,8 +1,5 @@
 package captor.controller;
 
-import captor.model.Model;
-import captor.view.View;
-
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
